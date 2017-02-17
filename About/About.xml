@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+	<ModMetaData>
+		<name>Roof Support Tool</name>
+		<author>Rock5</author>
+		<url></url>
+		<targetVersion>0.16.0</targetVersion>
+		<description>
+      Displays roof support range and can place plan to show radius.
+    
+      [Version 16.0]
+    </description>
+</ModMetaData>
